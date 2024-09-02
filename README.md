@@ -20,5 +20,7 @@ Repository includes audit trail and code samples for
 * Considerations for VSAM and IAM (cdc source only)
 * Considerations for Kafka (cdc target only)
 
-https://github.com/zeditor01/cdc_setup/edit/main/README.md
+[https://github.com/zeditor01/cdc_setup/edit/main/README.md](https://github.com/zeditor01/cdc_setup/)
+
+
 
