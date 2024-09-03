@@ -1,5 +1,7 @@
 [Back to Index](https://github.com/zeditor01/cdc_setup/blob/main/index.md)
 
+Last Update to this page: 4 September 2024
+
 # CDC Positioning
 
 ***Purpose of this Chapter***
