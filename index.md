@@ -1,11 +1,9 @@
 # CDC Worked Examples Index
 
+**Caution** These worked examples are definitely **NOT** an alternative to the IBM product docementation.
 
-* The IBM product documentation is the comprehensive source of information for what the product is, and how it can be used.
-( These worked examples are written to provide a narrative that reflects the project-centric implementation at a typical IBM customer.
-* **Caution** These worked examples are definitely **NOT** an alternative to the IBM product docementation. 
-They have been written by an IBM practitioner who has supported many customers in deploying IBM InfoSphere CDC. 
-The scope of the worked examples attempts to cover the common implementation support discussions that the product documentation does not address.
+* The [IBM product documentation](https://www.ibm.com/docs/en/idr/11.4.0?topic=change-data-capture-cdc-replication) is the comprehensive source of information for what the product is, and how it can be used.
+* These worked examples have been written by an IBM practitioner who has supported many customers in deploying IBM InfoSphere CDC, to provide a narrative that reflects the project-centric implementation at a typical IBM customer.
 
 Click on the hyperlinks below to review the specific topics you wish to read about.
 
@@ -13,9 +11,9 @@ Click on the hyperlinks below to review the specific topics you wish to read abo
 
 [Positioning of CDC against other IBM Data Replication Solutions](https://github.com/zeditor01/cdc_setup/blob/main/docs/cdc_positioning.md)
 
-[Important IBM links]
+[Important IBM Documentation Resources]()
 
-Planning Activities (software, hardware, network, authentication, authorisation, encryption, automated operation and monitoring, change control, cross-team project management)
+[Planning Activities (software, hardware, network, authentication, authorisation, encryption, automated operation and monitoring, change control, cross-team project management)]()
 
 ## Installation and Configuration Documents
 
