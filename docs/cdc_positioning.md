@@ -2,5 +2,13 @@
 
 # CDC Positioning
 
+### Purpose of this Chapter
 IBM develops many data replication solutions. This is a concise summary of the scenarios where different products are appropriate to use.
+
+## Contents
+1. IBM's Portfolio of Data Replication Software.
+2. Comparison Matrix.
+3. When to consider each option.
+
+
 
