@@ -1,10 +1,11 @@
 # CDC Worked Examples Index
 
-***Caution*** These worked examples are definitely **NOT** an alternative to the IBM product docementation. 
-They have been written by an IBM practitioner who has supported many customers in deploying IBM InfoSphere CDC. 
-The scope of the worked examples attempts to cover the common implementation support discussions that the product documentation does not address.
+
 * The IBM product documentation is the comprehensive source of information for what the product is, and how it can be used.
 ( These worked examples are written to provide a narrative that reflects the project-centric implementation at a typical IBM customer.
+* **Caution** These worked examples are definitely **NOT** an alternative to the IBM product docementation. 
+They have been written by an IBM practitioner who has supported many customers in deploying IBM InfoSphere CDC. 
+The scope of the worked examples attempts to cover the common implementation support discussions that the product documentation does not address.
 
 Click on the hyperlinks below to review the specific topics you wish to read about.
 
