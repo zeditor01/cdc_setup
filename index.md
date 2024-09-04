@@ -17,15 +17,15 @@ Click on the hyperlinks below to review the specific topics you wish to read abo
 
 ## Installation and Configuration Documents
 
-Deploying an Instance of CDC for Db2 z/OS
+[Deploying an Instance of CDC for Db2 z/OS]
 
-Deploying an Instance of Classic CDC for IMS
+[Deploying an Instance of Classic CDC for IMS]
 
-Deploying an Instance of Classic CDC for VSAM
+[Deploying an Instance of Classic CDC for VSAM]
 
-Deploying an Instance of CDC for Db2 LUW
+[Deploying an Instance of CDC for Db2 LUW]
 
-Deploying an Instance of CDC for Kafka
+[Deploying an Instance of CDC for Kafka]
 
 ## Developing and Operating Subscriptions
 
