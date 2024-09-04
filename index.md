@@ -13,9 +13,7 @@ Click on the hyperlinks below to review the specific topics you wish to read abo
 
 [Important IBM Documentation Resources](https://github.com/zeditor01/cdc_setup/blob/main/docs/ibm_resources.md)
 
-[Planning for CDC Implementation](https://github.com/zeditor01/cdc_setup/blob/main/docs/cdc_planning.md)
-
- (software, hardware, network, authentication, authorisation, encryption, automated operation and monitoring, change control, cross-team project management)
+[Planning for CDC Implementation](https://github.com/zeditor01/cdc_setup/blob/main/docs/cdc_planning.md) ... Critical !  (software, hardware, network, authentication, authorisation, encryption, automated operation and monitoring, change control, cross-team project management)
 
 ## Installation and Configuration Documents
 
