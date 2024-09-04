@@ -17,15 +17,15 @@ Click on the hyperlinks below to review the specific topics you wish to read abo
 
 ## Installation and Configuration Documents
 
-[Deploying an Instance of CDC for Db2 z/OS]
+[Deploying an Instance of CDC for Db2 z/OS](https://github.com/zeditor01/cdc_setup/blob/main/docs/deploy_instance_cdc_db2zos.md)
 
-[Deploying an Instance of Classic CDC for IMS]
+[Deploying an Instance of Classic CDC for IMS](https://github.com/zeditor01/cdc_setup/blob/main/docs/deploy_instance_cdc_ims.md)
 
-[Deploying an Instance of Classic CDC for VSAM]
+[Deploying an Instance of Classic CDC for VSAM](https://github.com/zeditor01/cdc_setup/blob/main/docs/deploy_instance_cdc_vsam.md)
 
-[Deploying an Instance of CDC for Db2 LUW]
+[Deploying an Instance of CDC for Db2 LUW](https://github.com/zeditor01/cdc_setup/blob/main/docs/deploy_instance_cdc_db2luw.md)
 
-[Deploying an Instance of CDC for Kafka]
+[Deploying an Instance of CDC for Kafka](https://github.com/zeditor01/cdc_setup/blob/main/docs/deploy_instance_cdc_kafka.md)
 
 ## Developing and Operating Subscriptions
 
