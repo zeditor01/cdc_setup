@@ -11,16 +11,19 @@ The purpose of this page is to list some of the most useful information sources 
 1. IBM Product Knowledge Center.
 2. IBM Redbooks.
 3. Published Papers and Presentations.
-4. Tech resource
+4. Selected items in the IBM Replication wiki.
 
-## 1. S1.
-
-Blah blah
-
-## 2. S2.
+## 1. IBM Product Knowledge Center.
 
 Blah blah
 
-## 3. S3.
+## 2. IBM Redbooks.
 
 Blah blah
+
+## 3. Published Papers and Presentations.
+
+Blah blah
+
+## 4. Selected items in the IBM Replication wiki.
+
