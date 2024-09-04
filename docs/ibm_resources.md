@@ -5,12 +5,13 @@ Last Update to this page: 4 September 2024
 # Useful Sources of Information for your CDC Project
 
 ***Purpose of this Chapter***
-The purpose of this github repository is to present a project perspective of what's involved in a heterogeneous CDC project.
+The purpose of this page is to list some of the most useful information sources that may help you with a CDC Project.
 
 ## Contents
-1. Section 1.
-2. Section 2.
-3. Section 3.
+1. IBM Product Knowledge Center.
+2. IBM Redbooks.
+3. Published Papers and Presentations.
+4. Tech resource
 
 ## 1. S1.
 
